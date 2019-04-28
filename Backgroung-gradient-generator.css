@@ -1,0 +1,14 @@
+body{
+	text-align: center;
+	font-family: 'Gochi Hand', cursive;
+	background: linear-gradient(to right ,red ,yellow);
+}
+h1{
+text-transform: uppercase;
+font-size: 5em;
+font-weight: 900;
+letter-spacing: 0.1em;
+}
+h3{
+	font-family: "Raleway";
+}
